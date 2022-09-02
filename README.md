@@ -12,5 +12,5 @@ The Pascal scripting feature (modern Delphi-like Pascal) adds lots of new possib
     Main script file.
  - ipaddress.iss 
     
-    additioanal pascal script file to create a page to change ip address. You may need to reconsider if you add a special page to your installation file.
+    additioanal pascal script file to create a page to change ip address. You may need to reconsider if you add a custom page to your installation file.
     

@@ -4,7 +4,6 @@
 ; http://www.install-designer.com
 ;--------------------------------------------
 
-// Install Designer - Inno Setup Project (v1.0.1.10) is running in Trial mode. This mode will end in 29 days, then you will have to purchase license.key! 
 [Code]
 var
     IpAdress: TWizardPage;
