@@ -119,7 +119,7 @@ begin
     if languageName = 'turkish'then
       begin
         title := 'Bilgisayar / Tablet IP Adresi';
-        subtitle := 'ILTER cihazında oturum açmak için Statik IP adresi kullanıldığından bilgisayarin gecerli IP adresinin cihaz ile uyumlu olarak ayarlanmasi gerekir. Ağ yöneticisi varsa, IP adresini yöneticiye danışın.';
+        subtitle := 'Cihazda oturum açmak için Statik IP adresi kullanıldığından bilgisayarin gecerli IP adresinin cihaz ile uyumlu olarak ayarlanmasi gerekir. Ağ yöneticisi varsa, IP adresini yöneticiye danışın.';
         doNotChangeIp := ' IP Adresini degistirmeden devam et';
         customIP := ' IP Adresini kendin belirle';
       end
