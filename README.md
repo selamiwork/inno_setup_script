@@ -23,3 +23,13 @@ The Pascal scripting feature (modern Delphi-like Pascal) adds lots of new possib
     Inno setup output file.    
     
     
+## Screenshots
+![screenshot_1](screenshots/sc_1.png)
+
+![screenshot_1](screenshots/sc_2.png)
+
+![screenshot_1](screenshots/sc_3.png)
+
+![screenshot_1](screenshots/sc_4.png)
+
+![screenshot_1](screenshots/sc_5.png)
